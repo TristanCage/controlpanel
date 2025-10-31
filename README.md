@@ -47,7 +47,7 @@ The project is designed to enhance the user experience when working with Pteroda
 2. Clone the repo
 
 ```sh
-git clone https://github.com/Lunes-Hosting/controlpanel
+git clone https://github.com/TristanCage/controlpanel
 ```
 
 3. 
